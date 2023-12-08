@@ -30,8 +30,8 @@ const Footer = () => {
                     <div className="contact">
                         <h5>CONTACT US</h5>
                         <ul>
-                            <li>96 Abafom Road, North Ridge - Accra</li>
-                            <li>Tel: 020 7928 0678</li>
+                            <li>123 Broad st, Columbus - Downtown</li>
+                            <li>Tel: 614 123 3456li>
                             <li>Email: info@littlelemon.com</li>
                         </ul>
                     </div>
